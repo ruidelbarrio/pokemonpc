@@ -160,7 +160,7 @@ const templates = {
   `
 };
 
-// Server
+// teq lr ssj4 daima goku omg
 const server = http.createServer(async (req, res) => {
   try {
     const parsedUrl = url.parse(req.url, true);
@@ -282,3 +282,4 @@ const PORT = 3000;
 server.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
+
